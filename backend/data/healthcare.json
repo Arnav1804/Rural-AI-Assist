@@ -1,0 +1,27 @@
+[
+  {
+    "condition": "fever",
+    "general_guidance": "Rest, stay hydrated, and monitor temperature. Mild fever can often be managed with rest and fluids.",
+    "when_to_see_doctor": "If fever exceeds 103°F (39.4°C), lasts more than 3 days, or is accompanied by severe headache, rash, or difficulty breathing"
+  },
+  {
+    "condition": "cough and cold",
+    "general_guidance": "Stay hydrated, rest, warm fluids like tea or soup can soothe throat irritation",
+    "when_to_see_doctor": "If cough persists beyond 2 weeks, produces blood, or is accompanied by high fever or chest pain"
+  },
+  {
+    "condition": "diarrhea",
+    "general_guidance": "Drink ORS (oral rehydration solution) or clean water frequently to prevent dehydration, eat light food",
+    "when_to_see_doctor": "If diarrhea lasts more than 2 days, contains blood, or is accompanied by high fever or severe dehydration signs (dizziness, very little urination)"
+  },
+  {
+    "condition": "minor injuries and cuts",
+    "general_guidance": "Clean the wound with clean water, apply an antiseptic if available, cover with a clean cloth or bandage",
+    "when_to_see_doctor": "If bleeding doesn't stop after 10 minutes of pressure, wound is deep, or shows signs of infection (redness, swelling, pus)"
+  },
+  {
+    "condition": "pregnancy and maternal care",
+    "general_guidance": "Regular checkups at the nearest PHC/Anganwadi center, balanced nutrition, iron and folic acid supplements as advised",
+    "when_to_see_doctor": "Any bleeding, severe abdominal pain, reduced fetal movement, or swelling in hands/face should be checked immediately at a health facility"
+  }
+]
