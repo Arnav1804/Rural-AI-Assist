@@ -15,12 +15,13 @@ User message: {message}"""
 def coordinator_node(state):
     prompt = COORDINATOR_PROMPT.format(message=state["message"])
     raw = ask_gemini(prompt)
+    print(f"[DEBUG] Raw Gemini output: {raw!r}")   # ADD THIS LINE TEMPORARILY
 
     try:
         cleaned = raw.strip().strip("```json").strip("```").strip()
         route = json.loads(cleaned)
     except Exception:
-        route = []  # fail safe: if Gemini's output isn't valid JSON, route to nothing rather than crash
+        route = []
 
     state["route"] = route
     return state
