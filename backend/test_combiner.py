@@ -1,6 +1,10 @@
 from agents.schemes_agent import schemes_node
 from agents.healthcare_agent import healthcare_node
 from agents.combiner import combiner_node
+import sys
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 state = {"message": "I have a fever and also want to know about PM-Kisan"}
 state = schemes_node(state)

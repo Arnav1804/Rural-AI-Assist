@@ -1,0 +1,44 @@
+[
+  {
+    "topic": "wheat irrigation and water management",
+    "keywords": ["wheat", "irrigation", "water", "irrigate", "watering"],
+    "guidance": "Wheat requires 4 to 6 irrigations during its growth cycle. The most critical stage is Crown Root Initiation (CRI, 20-25 days after sowing), followed by tillering, late jointing, flowering, and grain filling. If water is scarce, prioritize the CRI stage.",
+    "advisory": "Do not irrigate if rain is forecasted within 24 to 48 hours to prevent lodging and waterlogging. Ensure proper field drainage to protect root aeration."
+  },
+  {
+    "topic": "soil types and crop suitability",
+    "keywords": ["soil", "alluvial", "black soil", "red soil", "clay", "sandy"],
+    "guidance": "Alluvial soils are fertile and ideal for wheat, paddy, sugarcane, and pulses. Black cotton soils retain high moisture, making them optimal for cotton, soybean, and sorghum. Red and sandy loam soils are well-drained and suited for groundnut, millets, and pulses.",
+    "advisory": "Get a soil health test every 2 years to verify pH and nutrient levels before applying amendments."
+  },
+  {
+    "topic": "fertilizer and nutrient management",
+    "keywords": ["fertilizer", "fertilizers", "urea", "dap", "npk", "nutrient", "potash", "nitrogen"],
+    "guidance": "Apply balanced NPK nutrients based on soil tests (general ratio 4:2:1 for cereals). Apply all phosphorus and potassium plus 1/3rd nitrogen as basal dose at sowing; top-dress the remaining nitrogen (urea) at critical tillering and jointing stages.",
+    "advisory": "Never top-dress urea right before heavy rain, as nutrients will wash away. Combine chemical fertilizers with farmyard manure or vermicompost for long-term soil health."
+  },
+  {
+    "topic": "pest and disease management",
+    "keywords": ["pest", "pests", "disease", "diseases", "insects", "yellow rust", "stem borer", "blight", "fungus", "caterpillar", "yellowing"],
+    "guidance": "Inspect crops weekly for early disease signs like yellow rust pustules on wheat or stem borer dead-hearts in paddy. Use yellow sticky traps and pheromone traps to monitor pest populations before they exceed economic injury levels.",
+    "advisory": "Use 5% neem seed kernel extract (NSKE) or biological controls like Trichoderma early. Avoid spraying during high winds or immediately before rainfall."
+  },
+  {
+    "topic": "crop selection and sowing seasons",
+    "keywords": ["crop selection", "sowing", "kharif", "rabi", "zaid", "seeds", "seed", "variety"],
+    "guidance": "Kharif crops (paddy, maize, cotton, soybean) are sown at the start of monsoon in June-July. Rabi crops (wheat, mustard, gram) are sown in October-November as temperatures cool. Zaid crops (vegetables, watermelon, fodder) are grown between March and June.",
+    "advisory": "Always use certified disease-free seeds and treat them with recommended bio-fungicides before sowing for uniform germination."
+  },
+  {
+    "topic": "organic farming basics",
+    "keywords": ["organic", "compost", "jeevamrit", "panchagavya", "vermicompost", "manure", "natural farming"],
+    "guidance": "Organic farming emphasizes natural soil biology. Use Jeevamrit or Panchagavya to stimulate beneficial microbes and improve plant immunity. Mulching with crop residue conserves soil moisture and suppresses weeds.",
+    "advisory": "Rotate cereal crops with leguminous pulses (such as moong or urad) to naturally replenish soil nitrogen."
+  },
+  {
+    "topic": "cotton and vegetable crop management",
+    "keywords": ["cotton", "tomato", "vegetables", "bollworm", "whitefly"],
+    "guidance": "Cotton requires warm weather and well-drained soil. Watch for sucking pests like whitefly and thrips during early vegetative stages, and pink bollworm during flowering. For vegetables like tomato, practice timely staking and balanced watering.",
+    "advisory": "Install pheromone traps for bollworm monitoring. Avoid flood irrigation during the flowering phase to prevent flower drop."
+  }
+]
