@@ -1,4 +1,4 @@
-const CHAT_URL = "http://localhost:8000/chat";
+const CHAT_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:8000/chat";
 
 // In-memory session ID generator (React state handles active session; helper provided)
 export function generateSessionId() {
